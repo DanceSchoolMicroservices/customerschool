@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost/school
     username: schoolservice
-    password: '{cipher}54a83d553a8567642079772f77c6f874316917635dafeca01063d650c002384c'
+    password: '{cipher}0834772989b3953c1a2bd3fc2ba6211239ca6877cffc3f6afb63dacdcfec96bb'
     driverClassName: com.mysql.jdbc.Driver
   jpa:
     database-platform: org.hibernate.dialect.MySQLDialect
